@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Николай Гура](https://up.htmlacademy.ru/htmlcss/28/user/1113099).
-* Наставник: `Неизвестно`.
+- Студент: [Николай Гура](https://up.htmlacademy.ru/htmlcss/28/user/1113099).
+- Наставник: [Марина Удовенко](https://htmlacademy.ru/profile/id7570).
 
 ---
 
